@@ -25,8 +25,8 @@
 "Verifying Source(s)" = "جارِ التحقق من المصدر/المصادر";
 "Stores" = "المتاجر";
 "Purchases" = "المشتريات";
-"Wish List" = "قائمة الأمنيات";
-"No items in Wish List" = "لا توجد عناصر في قائمة الأمنيات";
+"Wish List" = "قائمة الرغبات";
+"No items in Wish List" = "لا توجد عناصر في قائمة الرغبات";
 "Community" = "المجتمع";
 "Join our Discord" = "انضم لنا على Discord";
 "Follow me on Twitter" = "تابعنا على تويتر";
@@ -96,23 +96,23 @@
 // Sources
 
 "Sources" = "المصادر";
-"Local Repository" = "مستودع محلي";
+"Local Repository" = "مصدر محلي";
 "Locally installed packages" = "الحزم المثبتة محليًا";
 "Unknown" = "غير معروف";
-"No repository urls detected." = "لم يتم إكتشاف عناوين URL مستودعات.";
-"You have already added these repositories." = "أنت أضفت هذه المستودعات بالفعل.";
-"Error verifying repository" = "تعذر التحقق من المستودع";
-"Error verifying repositories" = "تعذر التحقق من المستودعات";
+"No repository urls detected." = "لم يتم إكتشاف عناوين URL مصادر.";
+"You have already added these repositories." = "أنت أضفت هذه المصادر بالفعل.";
+"Error verifying repository" = "تعذر التحقق من المصدر";
+"Error verifying repositories" = "تعذر التحقق من المصادر";
 "Unknown error" = "خطأ غير معروف";
 "Invalid URL" = "عنوان URL غير صحيح";
 "Enter URL" = "أدخل عنوان URL";
-"Add Repo(s)" = "إضافة مستودع/مستودعات";
+"Add Repo(s)" = "إضافة مصدر/مصادر";
 "Add" = "إضافة";
 "Add Multiple" = "إضافة متعددة";
 "Would you like to add the URL from your clipboard?" = "هل تريد إضافة عنوان الـ URL من الحافظة؟";
 "Please Wait..." = "يرجى الإنتظار...";
 "Verifying Source(s)" = "التحقق من المصدر/المصادر";
-"Unable to verify Repo" = "تعذر التحقق من المستودع";
+"Unable to verify Repo" = "تعذر التحقق من المصدر";
 "Refresh" = "تحديث";
 "Log Out" = "تسجيل خروج";
 "Purchased Packages" = "الحزم المشتراة";
@@ -169,8 +169,8 @@
 //Package size in Megabytes (with decimal)
 "%.2f MB" = "%.2f م.ب.";
 
-"Add to Wish List" = "إضافة إلى قائمة الأمنيات";
-"Remove from Wish List" = "إزالة من قائمة الأمنيات";
+"Add to Wish List" = "إضافة إلى قائمة الرغبات";
+"Remove from Wish List" = "إزالة من قائمة الرغبات";
 
 // Package Section Names
 
